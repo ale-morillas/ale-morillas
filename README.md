@@ -2,7 +2,7 @@
 
 ## Civil Engineer and Self-Taught Programmer
 
-I started learning how to program with python, but along the way I have come across other languages like C, JavaScript, HTML, CSS, etc. discovering that what I really want to focus on is the backend development.
+I started learning how to code with python, but along the way I have come across other languages like C, JavaScript, HTML, CSS, etc. discovering that what I really want to focus on is the backend development.
 
 - 🌍  I'm based in Cuba
 - ✉️  You can contact me at [alecorm97@gmail.com](mailto:alecorm97@gmail.com)
