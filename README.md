@@ -4,7 +4,7 @@
 
 I started learning how to code with Python, but along the way I have come across other languages like C, JavaScript, HTML, CSS, etc. discovering that what I really want to focus on is the backend development.
 
-- 🌍  I'm based in Cuba
+- 🌍  I'm based in Santander, Spain
 - ✉️  You can contact me at [alecorm97@gmail.com](mailto:alecorm97@gmail.com)
 - 🧠  Currently learning JavaScript and Node.js
 - 🤝  I'm open to collaborating on simple backend or AI projects
